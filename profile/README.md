@@ -5,7 +5,7 @@
                 Desde a primeira versão do CapoeiraLabs, temos tornado os testes mais simples e eficientes.
             </p>
             <p>
-                Nossa adoção por diversas empresas mostram a confiança na nossa solução.
+                Nossa missão é facilitar os testes mesmo para aqueles que não saibam escrever uma linha de código java.
             </p>
         </td>
         <td width="30%">
@@ -30,12 +30,12 @@
 
 <table>
     <tr>
-        <th width="16%">:book: &nbsp; Início</th>
-        <th width="16%">:bulb: &nbsp; Como Usar</th>
-        <th width="16%">:electric_plug: &nbsp; Ferramentas</th>
-        <th width="16%">:octocat: &nbsp; Enterprise</th>     
-        <th width="16%">:phone: &nbsp; Suporte</th>
-        <th>:bell: &nbsp; Siga-nos</th>
+        <th width="16%"> &nbsp; Início</th>
+        <th width="16%"> &nbsp; Como Usar</th>
+        <th width="16%"> &nbsp; Ferramentas</th>
+        <th width="16%">: &nbsp; Enterprise</th>     
+        <th width="16%"> &nbsp; Suporte</th>
+        <th> &nbsp; Siga-nos</th>
     </tr>
     <tr>
         <th>
