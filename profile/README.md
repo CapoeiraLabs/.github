@@ -21,7 +21,13 @@
 </table>
 
 <p>
-    O CapoeiraLabs foi criado por desenvolvedores, com foco na experiência do desenvolvedor. Tornamos os scripts de teste mais simples, legíveis e fáceis de manter, utilizando uma DSL intuitiva, suporte a JSON e integração com Java.
+    O CapoeiraLabs foi criado por desenvolvedores, com foco na experiência do desenvolvedor. 
+
+ </div>
+
+ Tornamos os scripts de teste mais simples, legíveis e fáceis de manter, utilizando uma DSL intuitiva, suporte a JSON e integração com Java.
+    </div>
+
 </p>
 
 <di>
