@@ -12,8 +12,8 @@
             <a href="https://github.com/CapoeiraLabs/">
                 <picture>
                     <source media="(prefers-color-scheme: dark)"
-                        srcset="https://raw.githubusercontent.com/CapoeiraLabs/.github/blob/main/main/profile/capoeiralabs-logo.png">
-                    <img src="https://raw.githubusercontent.com/CapoeiraLabs/.github/blob/main/main/profile/capoeiralabs-logo.png" />
+                        srcset="https://github.com/CapoeiraLabs/.github/blob/a2b1a2e43531bce9aeb18a29f20f7497e9658b49/profile/capoeiralabs-logo.png">
+                    <img src="https://github.com/CapoeiraLabs/.github/blob/a2b1a2e43531bce9aeb18a29f20f7497e9658b49/profile/capoeiralabs-logo.png" />
                 </picture>
             </a>
         </td>
