@@ -65,10 +65,10 @@
         </th>            
         <th>
             <h3>
-                <a href="https://github.com/CapoeiraLabs/Capoeira/vscode-extension">Extensão Visual Studio Code</a>
+                <a href="https://github.com/CapoeiraLabs/Capoeira/tree/main/capoeira-plugins/vscode-plugin/extension">Extensão Visual Studio Code</a>
             </h3>
             <h3>
-                <a href="https://github.com/CapoeiraLabs/Capoeira/intellij-plugin">Plugin IntelliJ IDEA</a>
+                <a href="https://github.com/CapoeiraLabs/Capoeira/tree/main/capoeira-plugins/intellij-plugin">Plugin IntelliJ IDEA</a>
             </h3>
             <h3>
                 <a href="https://github.com/CapoeiraLabs/Capoeira/tools">Ferramentas Auxiliares</a>
